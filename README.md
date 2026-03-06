@@ -1,7 +1,7 @@
 <img width="1536" height="1024" alt="Task Yönetimi - React Hook Form Geçişi" src="https://github.com/user-attachments/assets/aa476521-f257-406b-9d9a-6dddb0c26c5a" />
 # Task Yönetim Uygulaması
 
-Bu proje React kullanılarak geliştirilmiş basit bir görev yönetim uygulamasıdır. Kullanıcılar yeni kişiler ekleyebilir, görev oluşturabilir ve görevleri tamamlandı olarak işaretleyebilir.
+Bu proje React kullanılarak geliştirilmiş  Kullanıcılar yeni kişiler ekleyebilir, görev oluşturabilir ve görevleri tamamlandı olarak işaretleyebilir.
 
 ## Özellikler
 
